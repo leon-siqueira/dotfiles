@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = leon.siqueir4@gmail.com
+	name = Leon Siqueira
